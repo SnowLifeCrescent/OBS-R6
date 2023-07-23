@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/OBS-plugin-RS.iml" filepath="$PROJECT_DIR$/.idea/OBS-plugin-RS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/self_R6.iml" filepath="$PROJECT_DIR$/.idea/self_R6.iml" />
     </modules>
   </component>
 </project>

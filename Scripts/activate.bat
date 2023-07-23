@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=D:\Programing\PyProject\OBS-plugin-RS"
+@set "VIRTUAL_ENV=D:\Programing\PyProject\self_R6"
 
 @if defined _OLD_VIRTUAL_PROMPT (
     @set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
